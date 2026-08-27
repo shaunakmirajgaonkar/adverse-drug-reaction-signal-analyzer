@@ -1,0 +1,11 @@
+medicine_id,medicine_name,drug_class,estimated_exposure_context,expected_reporting_context,monitoring_coverage_score
+MED-001,Cardiostat,Antihypertensive,4208,1704,0.47
+MED-002,GlucoRelief,Antidiabetic,6012,983,0.46
+MED-003,RespiraCare,Respiratory,5365,1285,0.51
+MED-004,NeuroCalm,Neurology,7193,1193,0.72
+MED-005,GastroEase,Gastrointestinal,3295,538,0.57
+MED-006,Dermalux,Dermatology,4681,1338,0.61
+MED-007,PainRelief-X,Analgesic,3787,1477,0.81
+MED-008,AllerFree,Antihistamine,6887,607,0.58
+MED-009,Infectra,Anti-infective,2369,613,0.47
+MED-010,Immunex,Immunology,2777,700,0.84

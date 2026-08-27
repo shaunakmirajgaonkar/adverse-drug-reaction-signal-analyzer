@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#effcf6"/><stop offset=".55" stop-color="#eef7ff"/><stop offset="1" stop-color="#fff4e8"/></linearGradient></defs>
+<rect width="1440" height="720" rx="42" fill="url(#bg)"/>
+<rect x="80" y="90" width="720" height="510" rx="30" fill="#fff" stroke="#dbe7e3"/>
+<text x="120" y="155" font-family="Arial" font-size="30" font-weight="700" fill="#173248">ADR Signal Analyzer</text>
+<text x="120" y="188" font-family="Arial" font-size="17" fill="#66788b">Local pharmacovigilance triage support</text>
+<rect x="120" y="235" width="190" height="135" rx="20" fill="#edf9f2"/><circle cx="215" cy="300" r="31" fill="#32a873"/><path d="M215 278v44M193 300h44" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<rect x="335" y="235" width="190" height="135" rx="20" fill="#eef6ff"/><circle cx="430" cy="300" r="31" fill="#2e7fd7"/><path d="M415 300l10 10 22-25" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<rect x="550" y="235" width="190" height="135" rx="20" fill="#fff4e5"/><circle cx="645" cy="300" r="31" fill="#ed9a3f"/><path d="M630 318h30M638 286h14v14h-14z" fill="none" stroke="#fff" stroke-width="8"/>
+<rect x="120" y="410" width="620" height="150" rx="20" fill="#f7fafc"/>
+<text x="145" y="446" font-family="Arial" font-size="18" font-weight="700" fill="#173248">Explainable signal composition</text>
+<rect x="145" y="476" width="520" height="16" rx="8" fill="#e2e9ed"/><rect x="145" y="476" width="360" height="16" rx="8" fill="#368fd0"/>
+<text x="145" y="528" font-family="Arial" font-size="15" fill="#6a7b8c">Seriousness • recurrence • timing • completeness</text>
+<rect x="870" y="90" width="492" height="510" rx="30" fill="#fff" stroke="#dbe7e3"/>
+<text x="915" y="152" font-family="Arial" font-size="29" font-weight="700" fill="#173248">Safety signal landscape</text>
+<text x="915" y="185" font-family="Arial" font-size="17" fill="#66788b">Synthetic local demonstration</text>
+<path d="M930 490 C1000 420 1050 445 1110 355 C1170 275 1230 340 1300 220" fill="none" stroke="#2e7fd7" stroke-width="9" stroke-linecap="round"/>
+<circle cx="930" cy="490" r="14" fill="#e15d68"/><circle cx="1010" cy="420" r="14" fill="#36a873"/><circle cx="1110" cy="355" r="14" fill="#f0a142"/><circle cx="1230" cy="340" r="14" fill="#36a873"/><circle cx="1300" cy="220" r="14" fill="#e15d68"/>
+<text x="915" y="550" font-family="Arial" font-size="15" fill="#66788b">Local-only processing • No causality claims</text>
+</svg>
